@@ -9,13 +9,7 @@ function App() {
   const [tasks, setTasks] = useState([
     {
       id: 1,
-      taskName: 'Meet programming colleague',
-      time: Date(),
-      finished: false,
-    },
-    {
-      id: 2,
-      taskName: 'Read some novel',
+      taskName: 'sample task',
       time: Date(),
       finished: false,
     },
